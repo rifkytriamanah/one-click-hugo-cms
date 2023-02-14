@@ -1,19 +1,34 @@
 ---
 title: SELAMAT DATANG
 subtitle: Di Website Desa Cikura, Kabupaten Tegal.
-image: /img/home-jumbotron.jpg
+image: img/home-about-section.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: PROFIL DESA CIKURA
+  text: Menurut tutur cerita dari tetua masyarakat, sejarah Desa cikura telah
+    berlangsung Sebelum masa kemerdekaan, wilayah Desa Cikura termasuk dalam
+    wilayah kecamatan Bojong kabupaten Tegal. Desa Cikura merupakan daerah
+    perdesaan yang dilimpahi berkah tanah pertanian yang subur, tumbuhan yang
+    menghijau, tidak heran di masa penjajahan desa cikura di gunakan oleh para
+    pejuang untuk di jadikan persembunyian selama masa perjuangan kemerdekaan
+    republik indonesia.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Visi & Misi
+  text: >-
+    Visi : Menciptakan Tata Kelola Pemerintahan Yang Amanah Jujur Dan
+    Bertanggung Jawab
+
+
+    Misi :
+
+    - Melakukan Reformasi system kinerja aparatur Pemerintah Desa
+
+    - Menyelenggarakan Pemerintahan Desa Secara Terbuka dan Bertanggung Jawab
+
+    - Meningkatkan perekonomian masyarakat melalui pembentukan kelompok UKM
+
+    - Kerja sama dengan semua pihak untuk mewujudkan keamanan dan ketertiban
+
+    - Mengorganisir Kaum Muda dan meningkatkan peranya sebagai kader masa depan
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
